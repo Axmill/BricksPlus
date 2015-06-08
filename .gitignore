@@ -1,0 +1,33 @@
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# Forge things
+.gradle/
+.settings/
+eclipse/
+gradle/
+bin/
+build/
+.classpath
+.project
+build.gradle
+*.bat
+forge-1.7.10-10.13.3.1395-1710ls-changelog.txt
+forge-1.7.2-10.12.2.1147-changelog.txt
+gradlew
+README.txt
